@@ -1,0 +1,2 @@
+<!DOCTYPE html><html><head><title>Welcome</title><link rel="stylesheet" href="css/style.css"></head><body>
+<header><h1>Job Portal</h1></header><main class="hero"><h2>Welcome, ${name}!</h2><p>You can now browse jobs and apply.</p><a class="button" href="jobs">Browse Jobs</a></main></body></html>
